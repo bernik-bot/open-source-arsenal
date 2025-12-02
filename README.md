@@ -59,6 +59,8 @@ Tools to analyze source code for vulnerabilities and manage open-source dependen
 
 Assessment, auditing, and hardening tools for cloud environments.
 
+A more detailed repo on all cloud security tools: Francesco Security toolset. | [Link](https://github.com/franksec42/my-arsenal-of-aws-security-tools) |
+
 | Tool Name | Description | Link |
 | :--- | :--- | :--- |
 | **Prowler** | AWS security assessment, auditing, and hardening. | [Link](https://github.com/prowler-cloud/prowler) |
